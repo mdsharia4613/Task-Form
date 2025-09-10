@@ -1,0 +1,17 @@
+/* task-1 */
+.header{
+    text-align: center;
+    color: rgb(218, 77, 26);
+
+}
+
+.p-tag{
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid red;
+    margin: 50px;
+    background: #fffd6b;
+}
+
+/* task-2 */
+
